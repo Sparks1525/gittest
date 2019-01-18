@@ -10,3 +10,8 @@ dev
 
 keep dev........done!!!
 >>>>>>> dev
+
+
+
+
+fix bug 2019-1-18
